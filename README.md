@@ -26,11 +26,7 @@ Open terminal or command prompt
 
 Run:
 
-bash
-Copy
-Edit
-
-Use Case
+📘 Use Case
 This project is perfect for:
 
 Practicing basic Python skills
@@ -38,3 +34,6 @@ Practicing basic Python skills
 Understanding how to use functions in a program
 
 Building your first command-line application
+
+
+
